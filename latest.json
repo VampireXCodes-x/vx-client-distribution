@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa25FT0N3MSsvS1ZLbFdhV1ZNUkVTeEZERUlRcnVUa2VjZFpzUGRraHVIemtOcU9hSzY4UDJYZGtTU1ZmemFlYjNCaytjYkxKckVxTmYxWjdkbnRmaFpWSWVpb2V2eFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY0ODY2CWZpbGU6VlggQ2xpZW50XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApWR0ZRQyttUGplMU5Ta2VnZmVMSmRzOG8vb2Z0RXY1RzFXYUZyc0hpNUovTyt0V0lCclpqaElrM2JWN3RUbG4rZVIrRW5JTDZoVFFXMFVqYWlnTFRCZz09Cg==",
-      "url": "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.4/VX Client_0.1.4_x64-setup.exe"
+      "url": "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.4/VX.Client_0.1.4_x64-setup.exe"
     }
   }
 }
