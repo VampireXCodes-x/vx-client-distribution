@@ -1,20 +1,4 @@
 {
   "schema_version": 1,
-  "announcements": [
-    {
-      "id": "vx-test-announcement",
-      "title": "Welcome to VX Client v0.1.3",
-      "description": "This is a test announcement to verify the live announcement pipeline.",
-      "content": "### VX Client v0.1.3 — Testing Announcement\n\nThis is an official test announcement served directly from the public distribution repository.\n\n- **Launcher Version**: v0.1.3\n- **Pipeline**: Verified\n- **Status**: All systems operational\n\nPLAY DIFFERENT — Vメ VampirePlayz",
-      "imageUrl": null,
-      "category": "update",
-      "publishDate": "2026-11-14",
-      "expireDate": null,
-      "active": true,
-      "externalLink": "https://github.com/VampireXCodes-x",
-      "featured": false,
-      "priority": 100,
-      "displayMode": "popup"
-    }
-  ]
+  "announcements": []
 }
