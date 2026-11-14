@@ -1,4 +1,18 @@
 {
   "schema_version": 1,
-  "partners": []
+  "partners": [
+    {
+      "id": "partner-1794651273206",
+      "name": "Cursed Realm",
+      "logoUrl": null,
+      "description": "Official partner of VX Client.\n\nMinecraft gaming community.\n\nCommunity collaborations and mutual promotion.\n\nSpecial Cursed Realms-themed VX Client launcher coming in the future.\n\nMore exciting events and updates coming soon!",
+      "websiteUrl": null,
+      "discordUrl": "https://discord.gg/FzsDHE32F9",
+      "category": "community",
+      "displayMode": "popup",
+      "active": true,
+      "featured": false,
+      "priority": 50
+    }
+  ]
 }
