@@ -1,0 +1,10 @@
+{
+    "version":  "0.1.2",
+    "notes":  "VX Client v0.1.2 - Initial signed updater release.",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZzQrSDB0YWdNeFB1WFdOa2VQSW9naFNDVE5MTHBMUzF3d3hOZElOK0E1WkE4RW9vMTQ1TjRleE96TTZTOEZlK0JFTFNCVHRLVXBYOTJ0VHY4b2d2YTdnTkZFYmVoYWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQxOTUzCWZpbGU6VlggQ2xpZW50XzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgpDamh5bWh4OEpJR3NLVkN1UExHZ2VRcXhMSW0vcktXeHl1QnNWWWExOWZGWDBVWXRKQUpNRjFlY2FSNVAwbGJhNjliMkd5NkhVd0dDWjJ0cUNxdW9DQT09Cg==",
+                                             "url":  "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.2/VX%20Client_0.1.2_x64-setup.exe"
+                                         }
+                  }
+}
