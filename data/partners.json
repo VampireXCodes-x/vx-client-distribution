@@ -4,7 +4,7 @@
     {
       "id": "partner-1794651273206",
       "name": "Cursed Realm",
-      "logoUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794660479313.png",
+      "logoUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794663663368.webp",
       "description": "Official partner of VX Client.\n\nMinecraft gaming community.\n\nCommunity collaborations and mutual promotion.\n\nSpecial Cursed Realms-themed VX Client launcher coming in the future.\n\nMore exciting events and updates coming soon!",
       "websiteUrl": null,
       "discordUrl": "https://discord.gg/FzsDHE32F9",
@@ -12,7 +12,8 @@
       "displayMode": "popup",
       "active": true,
       "featured": true,
-      "priority": 50
+      "priority": 50,
+      "bannerUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794663671856.png"
     }
   ]
 }
