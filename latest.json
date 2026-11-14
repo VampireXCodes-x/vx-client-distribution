@@ -1,10 +1,10 @@
 {
   "version": "0.1.4",
   "notes": "### VX Client Release Notes\n\n- Rebuilt architecture with modern performance enhancements\n- Fixed ui bugs and glitches\n- Optimized memory footprint and launch speeds",
-  "pub_date": "2026-11-14T14:05:19.792Z",
+  "pub_date": "2026-11-14T14:29:04.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa25FT0N3MSsvS1ZLbFdhV1ZNUkVTeEZERUlRcnVUa2VjZFpzUGRraHVIemtOcU9hSzY4UDJYZGtTU1ZmemFlYjNCaytjYkxKckVxTmYxWjdkbnRmaFpWSWVpb2V2eFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY0ODY2CWZpbGU6VlggQ2xpZW50XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApWR0ZRQyttUGplMU5Ta2VnZmVMSmRzOG8vb2Z0RXY1RzFXYUZyc0hpNUovTyt0V0lCclpqaElrM2JWN3RUbG4rZVIrRW5JTDZoVFFXMFVqYWlnTFRCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZzQrSDB0YWdNeE9SM3o0UWNVSDgrL0dXNW5kclhxYXMvUWExMTZtVzMvTk5lVDJyemxKb2Y1T1JrY1Zad0JxMnhNRGIzOENvbHhQOGhsR281Y3U4dUlBVWhRWkpCUkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY2NTQ0CWZpbGU6VlggQ2xpZW50XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNAo4UTdyUlo3cVg5TkpjbEU1YVcwSVJCOHgwdDdmbXdHQUYzemR3SGJ0dldBdTlmOUx0ZEM1aGNBNUtkM241dWJxSkdteHF5NU9saE92d1k1WklEeXBDdz09Cg==",
       "url": "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.4/VX.Client_0.1.4_x64-setup.exe"
     }
   }
