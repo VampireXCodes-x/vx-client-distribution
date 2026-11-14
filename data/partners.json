@@ -11,7 +11,7 @@
       "category": "community",
       "displayMode": "popup",
       "active": true,
-      "featured": false,
+      "featured": true,
       "priority": 50
     }
   ]
