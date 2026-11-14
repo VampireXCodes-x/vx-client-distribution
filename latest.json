@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "### VX Client Release Notes\n\n- Rebuilt architecture with modern performance enhancements\n- Fixed ui bugs and glitches\n- Optimized memory footprint and launch speeds",
-  "pub_date": "2026-11-14T14:48:00.000Z",
+  "version": "0.1.5",
+  "notes": "### VX Client v0.1.5 Release Notes\n\n- Dynamic Launcher Versioning: Settings & splash screen now dynamically display the active version.\n- Home Page 3D Skin: Spinning rotation disabled; character faces forward, continuously waves hand, and moves head towards the cursor.\n- Partnership Popup Banner: Displays wide 16:9 banner images with logo avatars and clean fallback.\n- Responsive UI & Translucent Sidebar: Smooth layout scaling across all window resize states.\n- Verified Cryptographic Updates: Production Minisign signed update flow.",
+  "pub_date": "2026-11-14T15:08:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZzQrSDB0YWdNeE5kYXdSa3FFMW5kSEVWSDNHMVErSHJpWHJWSVd6SUdRSmI4Vzl6L0N1VzRhYS82SXpiYmRxc01nME1rbUZZSFk3SGdkdUJGTFJSdFowdHRPUzRjZ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY3NzI1CWZpbGU6VlggQ2xpZW50XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApONmNxZDBaTXBQclN0dVh1M3BxakZub0FxQkkvVGZmNEliSWZOSXhyQkJnank4RHpmSUV1YzMwUHU2alg4cFd3ajlOYjE2cWV3dlJpQkk1dE5LZ2VBQT09Cg==",
-      "url": "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.4/VX.Client_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZzQrSDB0YWdNeEEyQitzNXM1NWFmQWI4VVlwS2kyVXNWVklEcUh1OUtmSFZ0dFNBNllpK1J2RnhWWmxjUFdXc1lzV0gxUkMxdThobUx0M3pFZDFQeEJEenlGR1padFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY4ODQ5CWZpbGU6VlggQ2xpZW50XzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQpPN1RpYjVacVg4Yk5lYk5EeWlIK3NIVEplKzE1U2hIUWZ1ckdNcndaOVpSMkE1SEJlY0huOEZ3VmY3SGU3eTlDVUdyYXVvKzI3ZVZmUWtQcFo5cEVEdz09Cg==",
+      "url": "https://github.com/VampireXCodes-x/vx-client-distribution/releases/download/v0.1.5/VX.Client_0.1.5_x64-setup.exe"
     }
   }
 }
