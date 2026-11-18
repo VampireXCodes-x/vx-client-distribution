@@ -14,6 +14,20 @@
       "featured": true,
       "priority": 50,
       "bannerUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794663671856.png"
+    },
+    {
+      "id": "partner-1794980891420",
+      "name": "LORD々ARMY! ⚔️",
+      "logoUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794980992928.png",
+      "bannerUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1794980998095.png",
+      "description": "LORD ARMY is a gaming community built for gamers who want to connect, make friends, play together, compete, and create unforgettable gaming moments.\n\nWhether you're a casual player or a competitive gamer, there's a place for you in our army!\n- ⚔️ What We Offer\n- 🎮 Gaming Zone: Minecraft, Valorant, Roblox, and more.\n- 🤝 Team Up: Find teammates and make new gaming friends.\n- 🎁 Giveaways: Participate in exciting rewards and activities.\n- 🛡️ Friendly Environment: Respectful and welcoming community.\n📜 Our Mission\nTo build a strong gaming family where every member feels welcome, respected, and valued. \n",
+      "websiteUrl": null,
+      "discordUrl": "https://discord.gg/vpwXTP67xu",
+      "category": "community",
+      "displayMode": "popup",
+      "active": true,
+      "featured": true,
+      "priority": 10
     }
   ]
 }
