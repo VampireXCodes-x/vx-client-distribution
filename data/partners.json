@@ -30,7 +30,10 @@
       "displayMode": "popup",
       "active": true,
       "featured": true,
-      "priority": 10
+      "priority": 2,
+      "serverIp": null,
+      "serverPort": null,
+      "onlinePlayers": null
     }
   ]
 }
