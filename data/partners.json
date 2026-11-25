@@ -34,23 +34,6 @@
       "serverIp": null,
       "serverPort": null,
       "onlinePlayers": null
-    },
-    {
-      "id": "partner-1795505423384",
-      "name": "ApexVerse",
-      "logoUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1795505592157.png",
-      "bannerUrl": "https://raw.githubusercontent.com/VampireXCodes-x/vx-client-distribution/main/partners/partner-1795505586842.png",
-      "description": "Best Box PvP Server",
-      "websiteUrl": null,
-      "discordUrl": null,
-      "category": "server",
-      "displayMode": "popup",
-      "active": true,
-      "featured": true,
-      "priority": 10,
-      "serverIp": "ip246.range.ncr.gbnodes.host",
-      "serverPort": 25895,
-      "onlinePlayers": 2
     }
   ]
 }
